@@ -1,3 +1,3 @@
 # git_code_practice
-this is my first
+this is my first project
 
